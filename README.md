@@ -238,4 +238,4 @@ This repository serves as the official landing page for Free Compressor. The sof
 **Get the most recent version of Free Compressor today!**
 
 ---
-**Last updated:** 2026-10-03 23:41:48 UTC
+**Last updated:** 2026-10-04 05:22:28 UTC
